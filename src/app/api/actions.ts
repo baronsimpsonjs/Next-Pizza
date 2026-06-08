@@ -16,7 +16,7 @@ import {
 import { generateLiqPayData, generateLiqPaySignature } from '@/src/lib/liqpay';
 import { sendEmail } from '@/src/lib/mails/send-email';
 import { randomBytes } from 'crypto';
-import { hashSync } from 'bcrypt';
+import { hashSync } from 'bcryptjs';
 import {
   RegisterFormData,
   registerFormSchema,
