@@ -5,9 +5,6 @@ Containerized with **Docker**, deployed via **Railway**, and powered by **CI/CD*
 
 ---
 
-
-
-
 ## 🧰 Stack
 
 | Layer         | Tech                                                                        |
