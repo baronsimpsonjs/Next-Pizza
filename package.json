@@ -45,7 +45,7 @@
     "next-auth": "^4.24.11",
     "next-cloudinary": "^6.16.0",
     "nextjs-toploader": "^3.8.16",
-    "nodemailer": "^6.6.5",
+    "nodemailer": "^7.0.13",
     "prisma": "^6.7.0",
     "qs": "^6.14.0",
     "react": "^18",
